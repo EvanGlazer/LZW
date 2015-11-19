@@ -79,17 +79,4 @@ public class LZW {
         System.out.println(decompression(outputCode));
         // Answer: ABBABBBABBA
     }
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-    
-    
 }
